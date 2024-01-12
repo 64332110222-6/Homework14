@@ -1,6 +1,6 @@
 import { createContext, useEffect, useState } from 'react';
 
-const apiUrl = 'https://todo-list-319p.onrender.com/todos';
+const apiUrl = 'https://json-api-pcih.onrender.com/todos';
 const TodoContext = createContext();
 
 function TodoContextProvider(props) {
